@@ -9,6 +9,8 @@ Expert software/data engineer focusing on data and cloud tech and currently work
 * Cloud                : BigQuery, Redshift, Cloud Storage, S3, Pub/Sub
 * Apache Stack         : Spark, Kafka, Airflow, NiFi
 * Visualization        : Looker
+* CI/CD                : Jenkins, Git
+* Others               : Qt 5.15, JUnit XML, Test Automation
 
 📫 How to reach me
 
