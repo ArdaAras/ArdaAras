@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there!  I am Arda ✋
 
-<!--
-**ArdaAras/ArdaAras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 About me
 
-Here are some ideas to get you started:
+Expert software/data engineer focusing on data and cloud tech and currently working on TODO project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technologies I am familiar with:
+* Programming languages: Python3, C, C++
+* Cloud                : BigQuery, Redshift, Cloud Storage, S3, Pub/Sub
+* Apache Stack         : Spark, Kafka, Airflow, NiFi
+* Visualization        : Looker
+
+📫 How to reach me
+
+arda.aras.dev@gmail.com
