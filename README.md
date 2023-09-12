@@ -2,7 +2,7 @@
 
 💬 About me
 
-Expert software/data engineer focusing on data and cloud tech and working on the 'Investing.com ETL with AWS' data project.
+Expert software/data engineer focusing on data and cloud tech.
 
 💻 Technologies I am familiar with:
 
