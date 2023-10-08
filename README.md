@@ -4,6 +4,8 @@
 
 Expert software/data engineer focusing on data and cloud tech.
 
+📚 ***Currently studying AWS services for Data Analytics and Data Engineer certifications.*** 📚
+
 💻 Technologies I am familiar with:
 
 | Section      | Tech |
