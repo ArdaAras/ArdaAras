@@ -2,6 +2,8 @@
 
 💬 About me
 
+![](https://komarev.com/ghpvc/?username=ArdaAras&color=lightgrey&style=plastic)
+
 Expert software/data engineer focusing on data and cloud tech.
 
 📚 ***Currently studying AWS services for Data Analytics and Data Engineer certifications.*** 📚
