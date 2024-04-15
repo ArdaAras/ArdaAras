@@ -21,3 +21,7 @@ AWS Data Engineer focusing on data and cloud tech.
 📫 How to reach me
 
 arda.aras.dev@gmail.com
+
+## Badges
+
+![aws-certified-data-analytics-specialty](https://github.com/ArdaAras/ArdaAras/assets/37178857/8007f282-48fd-4bed-a61d-99ae17571b6c)
