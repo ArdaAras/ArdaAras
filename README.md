@@ -10,7 +10,7 @@ AWS Data Engineer focusing on data and cloud tech.
 
 | Section      | Tech |
 | :---        |    :----    |
-| Programming languages     | Python3, C, C++ |
+| Programming languages     | Python, C, C++ |
 | Cloud   | Redshift, Athena, S3, Kinesis, Glue |
 | Database | Oracle, PostgreSQL |
 | Apache Stack         | Spark, Kafka, Airflow, NiFi |
