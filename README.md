@@ -2,8 +2,6 @@
 
 💬 About me
 
-![](https://komarev.com/ghpvc/?username=ArdaAras&color=lightgrey&style=plastic)
-
 AWS Data Engineer focusing on data and cloud tech.
 
 💻 Technologies I am familiar with:
