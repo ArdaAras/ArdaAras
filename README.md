@@ -9,12 +9,12 @@ AWS Data Engineer focusing on data and cloud tech.
 | Section      | Tech |
 | :---        |    :----    |
 | Programming languages     | Python, SQL, C, C++ |
-| Cloud   | Redshift, Athena, Kinesis, Glue, EventBridge, Lambda |
+| Cloud   | Redshift, Bedrock, Athena, Kinesis, Glue, EventBridge, Lambda |
 | Database | Oracle, PostgreSQL |
 | Apache Stack         | Spark, Kafka, Airflow, NiFi |
 | Visualization        | Looker, Quicksight |
 | CI/CD                | Jenkins, Git |
-| Others               | Qt 5.15, JUnit, Dimensional Modeling |
+| Others               | Docker, Qt 5.15, JUnit, Dimensional Modeling |
 
 📫 How to reach me
 
